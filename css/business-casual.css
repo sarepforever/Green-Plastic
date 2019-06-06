@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #48a259;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #48a259;
 }
 
 @media (min-width: 992px) {
@@ -101,7 +101,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #48a259;
   }
 }
 
@@ -211,7 +211,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #48a259;
 }
 
 @media (min-width: 992px) {
@@ -230,11 +230,11 @@ p {
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #48a259 !important;
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #48a259 !important;
 }
 
 .btn {
@@ -243,8 +243,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #48a259;
+  border-color: #48a259;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
